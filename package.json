@@ -1,0 +1,22 @@
+{
+  "name": "gsgc-validator",
+  "version": "0.0.1",
+  "description": "Shared validations library for GSGC APIs",
+  "main": "lib/gsgc-validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giantslidegamecompany/gsgc-validator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giantslidegamecompany/gsgc-validator/issues"
+  },
+  "homepage": "https://github.com/giantslidegamecompany/gsgc-validator#readme",
+  "engines": {
+    "node": ">= 6.9.0"
+  }
+}
